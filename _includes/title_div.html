@@ -1,7 +1,14 @@
         <div id="title">
-          <h1>supermassiveblackhol.es</h1>
-          <p>{{ page.title }}</p>
+          <h1>{{ page.title }}</h1>
+          <p><a href="http://supermassiveblackhol.es">supermassiveblackhol.es</a></p>
           <hr>
-          <span class="credits left">written and performed by <a href="http://supermassiveblackhol.es<">thomas ashton braithwaite</a></span>
+          <span class="credits left">
+{% if page.author == 'thomas' %}
+<a href="http://flickr.com/photos/thomasb">thomas ashton braithwaite</a>
+{% elseif  page.author == 'reg' %}
+written by <a href="http://braythwayt.com">reg braithwaite</a>
+presented for your edification
+{% endif %}
+</span>
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="http://twitter.com/#!/michigangraham">mattgraham</a></span>
         </div>
