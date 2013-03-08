@@ -3,3 +3,5 @@ lsi: false
 safe: false
 markdown: kramdown
 exclude: config.rb, README.md
+baseurl: /thomas
+permalink: /thomas/:categories/:title.html
