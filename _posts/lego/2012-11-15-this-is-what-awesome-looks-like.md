@@ -1,6 +1,7 @@
 ---
 layout: default
 author: thomas
+categories: lego
 ---
 
 ![Furno XL](/assets/images/furnoxl.jpg)

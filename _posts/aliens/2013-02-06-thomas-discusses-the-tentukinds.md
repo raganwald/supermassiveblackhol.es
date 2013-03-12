@@ -1,6 +1,7 @@
 ---
 layout: default
 author: reg
+categories: aliens
 ---
 
 A four-part interview with Thomas Braithwaite:
