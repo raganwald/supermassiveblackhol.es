@@ -47,10 +47,10 @@ categories: school
   - We will be around other good people and that we support and who will support us
   - We will keep learning
 - The way we'll do that
- - Wasdell has taught us that there are good people, and how to support them and be supported.
-   - We have learned the importance of picking our friends
- - Wasdell has taught us that there are many ways to learn, and that some work well for us
-   - We have learned that if we are struggling with something, we can pick a better way to learn and that we will succeed.
+  - Wasdell has taught us that there are good people, and how to support them and be supported.
+    - We have learned the importance of picking our friends
+  - Wasdell has taught us that there are many ways to learn, and that some work well for us
+    - We have learned that if we are struggling with something, we can pick a better way to learn and that we will succeed.
 
 ### Thank You
 
