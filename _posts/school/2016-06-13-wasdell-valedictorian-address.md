@@ -6,7 +6,11 @@ categories: school
 
 # 2016 Wasdell Academy Valedictorian Address
 
-## Outline
+---
+
+## Outline Version
+
+---
 
 ### Introduction
 
@@ -62,6 +66,8 @@ categories: school
 ---
 
 ## First Draft
+
+---
 
 ### Introduction
 
